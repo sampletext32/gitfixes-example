@@ -2,4 +2,4 @@
 
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Я люблю свою маму");
+Console.WriteLine("Я люблю своих маму и папу");
